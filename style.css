@@ -141,19 +141,6 @@ body, html {
   padding-left: 20px;
 }
 
-/* Fake image */
-.fakeimg {
-  background-image: url("l.jpg") ;
-  width: 100%;
-  padding: 20px;
-}
-
-/* Add a card effect for articles */
-.card {
-  background-color: white;
-  padding: 20px;
-  margin-top: 20px;
-}
 
 /* Clear floats after the columns */
 .row:after {
